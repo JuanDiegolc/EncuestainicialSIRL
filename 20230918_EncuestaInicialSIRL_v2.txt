@@ -1,0 +1,60 @@
+[20230922 rev 2 ]
+
+Sistemas Informáticos y Redes Locales 
+(con integración de inalámbricas)
+
+PREPARATIVOS
+
+Sácate un selfie picado en primer plano, que se te vea claramente.
+Edita la imagen JPG con Irfanview, 300x300px.
+Edita tu perfil de Aules para que conste correctamente el email GVA.
+Añade tu fotografía al perfil de Aules. Ha de pasar control de calidad.
+Abre una cuenta GitHub ahora y pon la misma imagen que en Aules.
+
+ENCUESTA INICIAL SIRL curso 2023-24
+
+Contesta brevemente a las siguientes cuestiones para saber de ti. Utilízalas como punto de partida para expresarte libremente. Responde con sinceridad y esmero.
+Utiliza "Dillinger.io" para dar un formato adecuado al documento mediante el marcado Markdown. Tendrás que consultar la guía y ver algún ejemplo.
+Añade al documento tu foto-carnet enlazándola doblemente, hacia Aules y hacia GitHub. Qué sucede? 
+Genera los archivos .MD . HTML y .PDF, menú Export As, Markdown, Styled HTML y PDF. 
+Abre el documento HTML generado con el navegador e imprímelo a PDF. Compara el resultado con el anterior.
+Entrega un paquete ZIP con los archivos, documentos y foto, en la tarea de Aules Encuesta Inicial.
+Comparte en un resumen del documento .MD, mediante un mensaje en el hilo PRESENTACIÓN del foro PIZARRA, pegando el código (no como texto plano ni como adjunto).
+Desde Dillinger, trata de guardar el documento directamente en GitHub (y otros). ¿Cómo se hace?
+
+Fecha: 24/09/2023
+Apellidos, Nombre:Lopez Corbi, Juan Diego
+NIA:11308159
+email (GVA):jualopcor4@alu.edu.gva.es
+cuenta GitHub:JuanDiegolc
+Desplazamiento hasta y desde el IES? Suelo desplazarme en bicicleta, para mi, el mejor medio de transporte.
+
+Es telecomunicaciones tu primera opción? Si, esta relacionado con mi trabajo y me interesa ampliar conociemientos.Cuál fue si no?
+Tus estudios previos (Bach, GM, acceso GS, universidad?)Bachiller y Grado superior de instalaciones electrotecnicas y automatizadas.
+Tus trabajos (relacionados con telecomunicaciones?)Llevo mas de 15 años como instalador electricista e instalando contadores con telemedida GSM/GPRS.
+
+Tu dedicación al módulo SIRL (horas? cuándo?)Intentare dedicarme que me  permita mi trabajo y familia.
+Tu asistencia a SIRL (algún impedimento semanal y en calendario)En principio podre asistir sin problemas salvo que tenga algun imprevisto por temas laborales.
+Mejor estudias solo o en grupo? (in situ o via telemática)Suelo concentrarme mas cuando estudio pero nunca he tenido inconveniente en trabajar en grupo tanto telematicamente como en el centro de estudios.
+Convalidas algún módulo? (tiempo libre? aficiones?)Convalido FOL e ingles técnico, y suelo hacer deporte cuando me queda algo de tiempo libre.
+Vas a por todos los módulos? (consulta fechas límite de renuncia convocatorias)
+Intentare cursar todos los modulos, pero no se si me lo permitira mi situacion familiar y laboral.Segun como vaya el curso decidire si tengo que renunciar a alguno de los modulos e intentarlo el proximo curso.
+Qué sabes de electricidad? manejo de herramienta manual y eléctrica, montaje de líneas, cuadros, autómatas programables?No tengo ningun problema respecto a cualquier tipo de trabajo electrico, pero en tema de automatas programables, por no trabajarlo habitualmente, aunque curse el modulo de de automatas en el grado superior de electricidad, me costaria un poco mas trabajarlo.
+Qué sabes de electrónica? potencia, audio, radio, reparación de equipos, sonorización, IoT, robótica?Conceptos basicos.
+Qué sabes de informática? S.O., aplicaciones, redes, lenguajes de programación, Ai?En mi trabajo, en alguna ocasion tenemos que programar equipos de nivel basico, programarle IP local, puerto, gateway y poco mas. En tema de redes tengo algo de conocimientos a nivel de instalacion.
+Qué sabes de teoría de números? conversiones, operaciones, expresiones regulares .Algo recuerdo de las asignaturas cursadas, pero creo que necesitare refrescar conocimientos.
+Otras destrezas? RRSS, mecánica, diseño, deportes, idiomas, video edición?
+Creo que se me da bien el montaje manual de equipos.hola
+
+Cuáles son tus intereses?Adquirir conocimientos para mejorar el rendimiento laboral.
+Cómo te mantienes informado?Suelo consultar redes sociales para estar informado de la actualidad.
+Cómo te formas profesional y socialmente?Suelo consultar toda la documentacion tecnica que consigo y a nivel laboral aprender de los conocimientos de compañeros del sector.No me cuesta recibir consejos de personas con mayor formacion que yo.
+...
+
+
+===========
+Comprobar tus destrezas en el manejo del sistema ofimático.
+Completar el perfil de Aules con tu foto y email correcto.
+Emplear los foros de Aules para interactuar grupalmente.
+Introducir el sistema de control de versiones mediante GitHub, para documentación y código.
+
