@@ -1,27 +1,3 @@
-[20230922 rev 2 ]
-
-Sistemas Informáticos y Redes Locales 
-(con integración de inalámbricas)
-
-PREPARATIVOS
-
-Sácate un selfie picado en primer plano, que se te vea claramente.
-Edita la imagen JPG con Irfanview, 300x300px.
-Edita tu perfil de Aules para que conste correctamente el email GVA.
-Añade tu fotografía al perfil de Aules. Ha de pasar control de calidad.
-Abre una cuenta GitHub ahora y pon la misma imagen que en Aules.
-
-ENCUESTA INICIAL SIRL curso 2023-24
-
-Contesta brevemente a las siguientes cuestiones para saber de ti. Utilízalas como punto de partida para expresarte libremente. Responde con sinceridad y esmero.
-Utiliza "Dillinger.io" para dar un formato adecuado al documento mediante el marcado Markdown. Tendrás que consultar la guía y ver algún ejemplo.
-Añade al documento tu foto-carnet enlazándola doblemente, hacia Aules y hacia GitHub. Qué sucede? 
-Genera los archivos .MD . HTML y .PDF, menú Export As, Markdown, Styled HTML y PDF. 
-Abre el documento HTML generado con el navegador e imprímelo a PDF. Compara el resultado con el anterior.
-Entrega un paquete ZIP con los archivos, documentos y foto, en la tarea de Aules Encuesta Inicial.
-Comparte en un resumen del documento .MD, mediante un mensaje en el hilo PRESENTACIÓN del foro PIZARRA, pegando el código (no como texto plano ni como adjunto).
-Desde Dillinger, trata de guardar el documento directamente en GitHub (y otros). ¿Cómo se hace?
-
 Fecha: 24/09/2023
 Apellidos, Nombre:Lopez Corbi, Juan Diego
 NIA:11308159
